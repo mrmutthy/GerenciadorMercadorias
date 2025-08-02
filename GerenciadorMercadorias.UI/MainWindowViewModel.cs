@@ -147,7 +147,7 @@ namespace GerenciadorMercadorias.UI.ViewModels
                 if (ListaVisivel)
                     CarregarMercadorias();
                 LimparCampos();
-                System.Windows.MessageBox.Show("Adicionado com sucesso!");
+                System.Windows.MessageBox.Show("Mercadoria adicionada com sucesso!");
             }
             catch (Exception ex)
             {
@@ -170,7 +170,7 @@ namespace GerenciadorMercadorias.UI.ViewModels
                     _mercadoriaDAL.AtualizarMercadoria(SelectedMercadoria);
                     CarregarMercadorias();
                     LimparCampos();
-                    System.Windows.MessageBox.Show("Atualizado com sucesso!");
+                    System.Windows.MessageBox.Show("Mercadoria atualizada com sucesso!");
                 }
                 catch (Exception ex)
                 {
@@ -189,7 +189,7 @@ namespace GerenciadorMercadorias.UI.ViewModels
                     _mercadoriaDAL.ExcluirMercadoria(SelectedMercadoria.Id);
                     CarregarMercadorias();
                     LimparCampos();
-                    System.Windows.MessageBox.Show("Excluído com sucesso!");
+                    System.Windows.MessageBox.Show("Mercadoria excluída com sucesso!");
                 }
                 catch (Exception ex)
                 {
