@@ -138,3 +138,4 @@ namespace GerenciadorMercadorias.DAL
             return null;
         }
     }
+}

@@ -119,6 +119,21 @@ namespace GerenciadorMercadorias.UI.ViewModels
 
         private void AdicionarMercadoria(object? parameter)
         {
+            if (string.IsNullOrWhiteSpace(NomeMercadoria))
+            {
+                System.Windows.MessageBox.Show("O campo Nome é obrigatório.");
+                return;
+            }
+            if (PrecoMercadoria <= 0)
+            {
+                System.Windows.MessageBox.Show("O campo Preço deve ser maior que zero.");
+                return;
+            }
+            if (EstoqueMercadoria < 0)
+            {
+                System.Windows.MessageBox.Show("O campo Estoque não pode ser negativo.");
+                return;
+            }
             try
             {
                 var novaMercadoria = new Mercadoria
@@ -132,7 +147,7 @@ namespace GerenciadorMercadorias.UI.ViewModels
                 if (ListaVisivel)
                     CarregarMercadorias();
                 LimparCampos();
-                System.Windows.MessageBox.Show("Adicionado!");
+                System.Windows.MessageBox.Show("Adicionado com sucesso!");
             }
             catch (Exception ex)
             {
@@ -140,28 +155,46 @@ namespace GerenciadorMercadorias.UI.ViewModels
             }
         }
 
+
         private void AtualizarMercadoria(object? parameter)
         {
             if (SelectedMercadoria != null)
             {
-                SelectedMercadoria.Nome = NomeMercadoria;
-                SelectedMercadoria.Descricao = DescricaoMercadoria;
-                SelectedMercadoria.Preco = PrecoMercadoria;
-                SelectedMercadoria.Estoque = EstoqueMercadoria;
+                try
+                {
+                    SelectedMercadoria.Nome = NomeMercadoria;
+                    SelectedMercadoria.Descricao = DescricaoMercadoria;
+                    SelectedMercadoria.Preco = PrecoMercadoria;
+                    SelectedMercadoria.Estoque = EstoqueMercadoria;
 
-                _mercadoriaDAL.AtualizarMercadoria(SelectedMercadoria);
-                CarregarMercadorias();
-                LimparCampos();
+                    _mercadoriaDAL.AtualizarMercadoria(SelectedMercadoria);
+                    CarregarMercadorias();
+                    LimparCampos();
+                    System.Windows.MessageBox.Show("Atualizado com sucesso!");
+                }
+                catch (Exception ex)
+                {
+                    System.Windows.MessageBox.Show("Erro ao atualizar: " + ex.Message);
+                }
             }
         }
+
 
         private void ExcluirMercadoria(object? parameter)
         {
             if (SelectedMercadoria != null)
             {
-                _mercadoriaDAL.ExcluirMercadoria(SelectedMercadoria.Id);
-                CarregarMercadorias();
-                LimparCampos();
+                try
+                {
+                    _mercadoriaDAL.ExcluirMercadoria(SelectedMercadoria.Id);
+                    CarregarMercadorias();
+                    LimparCampos();
+                    System.Windows.MessageBox.Show("Excluído com sucesso!");
+                }
+                catch (Exception ex)
+                {
+                    System.Windows.MessageBox.Show("Erro ao excluir: " + ex.Message);
+                }
             }
         }
 

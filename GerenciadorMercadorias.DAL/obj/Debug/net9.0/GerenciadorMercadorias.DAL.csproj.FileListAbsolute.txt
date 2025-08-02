@@ -13,3 +13,19 @@ D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9
 D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\refint\GerenciadorMercadorias.DAL.dll
 D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.pdb
 D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\ref\GerenciadorMercadorias.DAL.dll
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.csproj.AssemblyReference.cache
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.AssemblyInfoInputs.cache
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.AssemblyInfo.cs
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.csproj.CoreCompileInputs.cache
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.sourcelink.json
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.dll
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\refint\GerenciadorMercadorias.DAL.dll
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\GerenciadorMercadorias.DAL.pdb
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\bin\Debug\net9.0\GerenciadorMercadorias.DAL.deps.json
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\bin\Debug\net9.0\GerenciadorMercadorias.DAL.dll
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\bin\Debug\net9.0\GerenciadorMercadorias.DAL.pdb
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\bin\Debug\net9.0\GerenciadorMercadorias.Model.dll
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\bin\Debug\net9.0\GerenciadorMercadorias.Model.pdb
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\Gerencia.655980CB.Up2Date
+D:\git\GerenciadorMercadorias\GerenciadorMercadorias.DAL\obj\Debug\net9.0\ref\GerenciadorMercadorias.DAL.dll
