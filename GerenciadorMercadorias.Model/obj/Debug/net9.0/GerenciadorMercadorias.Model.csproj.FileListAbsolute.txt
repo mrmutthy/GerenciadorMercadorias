@@ -1,0 +1,11 @@
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\bin\Debug\net9.0\GerenciadorMercadorias.Model.deps.json
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\bin\Debug\net9.0\GerenciadorMercadorias.Model.dll
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\bin\Debug\net9.0\GerenciadorMercadorias.Model.pdb
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\GerenciadorMercadorias.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\GerenciadorMercadorias.Model.AssemblyInfoInputs.cache
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\GerenciadorMercadorias.Model.AssemblyInfo.cs
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\GerenciadorMercadorias.Model.csproj.CoreCompileInputs.cache
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\GerenciadorMercadorias.Model.dll
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\refint\GerenciadorMercadorias.Model.dll
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\GerenciadorMercadorias.Model.pdb
+D:\git\Teste C#\GerenciadorMercadorias\GerenciadorMercadorias.Model\obj\Debug\net9.0\ref\GerenciadorMercadorias.Model.dll
