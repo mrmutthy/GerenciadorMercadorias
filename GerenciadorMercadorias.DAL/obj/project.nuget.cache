@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xvy74QayAkQ=",
+  "dgSpecHash": "cwLIoTQKdOM=",
   "success": true,
-  "projectFilePath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj",
+  "projectFilePath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MaGUIna\\.nuget\\packages\\microsoft.data.sqlite\\9.0.7\\microsoft.data.sqlite.9.0.7.nupkg.sha512",
     "C:\\Users\\MaGUIna\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.7\\microsoft.data.sqlite.core.9.0.7.nupkg.sha512",

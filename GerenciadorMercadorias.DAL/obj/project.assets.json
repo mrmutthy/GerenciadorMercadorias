@@ -353,11 +353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj",
+      "projectUniqueName": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj",
       "projectName": "GerenciadorMercadorias.DAL",
-      "projectPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj",
+      "projectPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj",
       "packagesPath": "C:\\Users\\MaGUIna\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\obj\\",
+      "outputPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MaGUIna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -372,8 +372,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj": {
-              "projectPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj"
+            "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj": {
+              "projectPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj"
             }
           }
         }

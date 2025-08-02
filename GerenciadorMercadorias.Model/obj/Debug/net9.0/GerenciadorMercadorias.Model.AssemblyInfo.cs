@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorMercadorias.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f67a8e307a1d9354251c605a9b8d39cb61ffadef")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorMercadorias.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorMercadorias.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

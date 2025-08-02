@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj",
+      "projectUniqueName": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj",
       "projectName": "GerenciadorMercadorias.Model",
-      "projectPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj",
+      "projectPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj",
       "packagesPath": "C:\\Users\\MaGUIna\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\obj\\",
+      "outputPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MaGUIna\\AppData\\Roaming\\NuGet\\NuGet.Config"

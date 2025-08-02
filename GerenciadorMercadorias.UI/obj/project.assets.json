@@ -372,11 +372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.UI\\GerenciadorMercadorias.UI.csproj",
+      "projectUniqueName": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.UI\\GerenciadorMercadorias.UI.csproj",
       "projectName": "GerenciadorMercadorias.UI",
-      "projectPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.UI\\GerenciadorMercadorias.UI.csproj",
+      "projectPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.UI\\GerenciadorMercadorias.UI.csproj",
       "packagesPath": "C:\\Users\\MaGUIna\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.UI\\obj\\",
+      "outputPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MaGUIna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -391,11 +391,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj": {
-              "projectPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj"
+            "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj": {
+              "projectPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.DAL\\GerenciadorMercadorias.DAL.csproj"
             },
-            "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj": {
-              "projectPath": "D:\\git\\Teste C#\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj"
+            "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj": {
+              "projectPath": "D:\\git\\GerenciadorMercadorias\\GerenciadorMercadorias.Model\\GerenciadorMercadorias.Model.csproj"
             }
           }
         }
